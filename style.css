@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  max-width: 900px;
+}
+* {
+	font-family:"Arial";
+	background-color: #000082;
+	color:white;
+	max-width:900px;
+	margin:auto;
+	text-align: center;
+}
+a{
+    color:white;
+    transition-duration: 0.3s;
+}
+a:hover{
+    color:gray;
+}
+#jesterhello {
+	float: left;
+	width: 50%
+}
